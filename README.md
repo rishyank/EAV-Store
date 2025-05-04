@@ -1,6 +1,6 @@
-# 🧠 EAV Store- Entit,Attribute,Value 
+# 🧠 EAV Store- Entity, Attribute, Value 
 
-This project is a modular data platform based on **Spring Boot** for entity-attribute-value (EAV) management.
+This project is a modular data platform based on **Spring Boot** for entity-attribute-value (EAV) management.While it relies primarily on hashmaps for storage—which isn't the most efficient—it serves as a fun and educational exploration of data modeling and in-memory persistence.
 
 API's to store, **in-memory key-value DB (KVserver)** inspired by Redis. Refer https://github.com/rishyank/kvserver
 
